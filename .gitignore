@@ -1,0 +1,21 @@
+# .NET Core
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Databases
+*.db
+
+# Configuration files
+appsettings.json
+appsettings.*.json
+
+# Publishing profiles
+*.pubxml
+
+# User secrets
+*.user.secrets

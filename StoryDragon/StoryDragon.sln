@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoryDragon", "StoryDragon.csproj", "{F66315FA-C555-41DF-9427-E5C8BA69E72E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "..\Testing\Testing.csproj", "{CE4B75CA-5150-4123-BFD6-5A9BC246A175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F66315FA-C555-41DF-9427-E5C8BA69E72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66315FA-C555-41DF-9427-E5C8BA69E72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66315FA-C555-41DF-9427-E5C8BA69E72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66315FA-C555-41DF-9427-E5C8BA69E72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4B75CA-5150-4123-BFD6-5A9BC246A175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4B75CA-5150-4123-BFD6-5A9BC246A175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4B75CA-5150-4123-BFD6-5A9BC246A175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4B75CA-5150-4123-BFD6-5A9BC246A175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99D2DD9-0DFA-40C4-8D83-0CA4A3496F91}
+	EndGlobalSection
+EndGlobal
